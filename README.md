@@ -4,7 +4,7 @@
 
 Obs: coloquei uns códigos a mais para estudos;
 *******************************************************************
-<div>#Criando um projeto com o git:<div>
+## Criando um projeto com o git:
 
 git init
 
@@ -29,7 +29,7 @@ adiciona a nova origin do repostitório
 git push -u origin main
 *******************************************************************
 
-<h1>#comandos</h1>
+## Comandos
 
 ls -al .git 
 
@@ -142,7 +142,7 @@ cat nomedoarquivo.txt
 
 /*serve para buscar algum arquivo e vê oq tem dentro*/
 *******************************************************************
-<h1>#Criando um .gitignore</h1>
+## Criando um .gitignore
 
 caso quiser ignorar algum arquivo (tem que colocar dentro do diretório):
 crie um gitignore = vim .gitignore
@@ -165,7 +165,7 @@ git comming -m "using .gitignore files"
 
 o arquivo que estiver dentro de .gitignore vai ser ignorado.
 *******************************************************************
-<h1>#Criando uma branch</h1>
+## Criando uma branch
 
 git checkout -b "nome do branch novo"
 
@@ -188,12 +188,12 @@ git branch
 
 /*mostra todas as branchs*/
 *******************************************************************
-<h1>#Clonando de um repositório remoto</h1>
+## Clonando de um repositório remoto
 git clone url_do_projeto
 
 /*pega o projeto que ta no github e coloca na sua máquina*/
 ***********************************************************************
-<h1>#Colocando arquivos no git stash</h1>
+## Colocando arquivos no git stash
 
 git stash
 
