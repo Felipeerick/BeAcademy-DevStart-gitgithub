@@ -1,5 +1,5 @@
-<h1>#Beacademy-devstart-gitegithub
-</h1>
+# Beacademy-devstart-gitegithub
+
 
 
 Obs: coloquei uns códigos a mais para estudos;
@@ -187,6 +187,10 @@ git branch -d nome_da_branch
 git branch
 
 /*mostra todas as branchs*/
+
+git pull origin nome_da_branch
+
+/*vai enviar a nova branch para a origem*/
 *******************************************************************
 ## Clonando de um repositório remoto
 git clone url_do_projeto
