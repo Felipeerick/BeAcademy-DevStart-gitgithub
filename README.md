@@ -191,6 +191,10 @@ git branch
 git pull origin nome_da_branch
 
 /*vai enviar a nova branch para a origem*/
+
+git pull
+
+/*Puxa os arquivos do repositorio remoto e mergeando com o local*/
 *******************************************************************
 ## Clonando de um repositório remoto
 git clone url_do_projeto
